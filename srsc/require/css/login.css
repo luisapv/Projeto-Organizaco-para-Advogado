@@ -1,0 +1,64 @@
+main form{
+	background: #FFF;
+	border: 1px solid #ccc;
+	-webkit-border-radius: 0.5rem;;
+	-moz-border-radius: 0.5rem;
+	border-radius: 0.5rem;
+	width: 65rem;
+	height: 26.6rem;
+	margin: 6rem auto;
+}
+main form p{
+	background: none;
+	margin: 0.4rem 2.2rem 3rem;
+	padding: 1rem;
+	border-bottom: 0.1rem solid #ccc;
+	font-size: 1.8rem;
+}
+main form div{
+	background:  none;
+	margin: 0rem auto 1.5rem;
+	text-align: center;
+	width: 40rem;
+}
+main form label{
+	background: none;
+	padding: 0.5rem 1rem;
+	color: #7d6666;
+}
+main form input[type='text'],input[type='password']{
+	border: 0.1rem solid #BDC7D8;
+	height: 2rem;
+	padding: 0rem 0.5rem;
+	width: 20rem;
+}
+main form button{
+	background: #5C74A9;
+	border: 0.1rem solid #29447E;
+	float: right;
+	margin-right: 13rem;
+	cursor: pointer;
+	color: #FFF;
+	padding: 0.5rem 1rem;
+	font-weight: bolder;
+}
+main form button:hover{
+	opacity: 0.8;
+}
+#msgLogin{
+	background: none;
+	float: right;
+	width: 15.3rem;
+	text-align: left;
+	color: #ff0000;
+}
+.msgCamposLogin{
+	border: none; 
+	text-align: left;
+	float: right;
+	color: #ff0000;
+	width: 12rem;
+}
+#eLogin{
+	margin-left: 0.5rem;
+}
